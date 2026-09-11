@@ -7,5 +7,6 @@
 #![forbid(unsafe_code)]
 #![warn(missing_docs)]
 
+pub mod engine;
 pub mod model;
 pub mod money;
