@@ -1,0 +1,9 @@
+[package]
+name = "payments-engine"
+version = "0.1.0"
+edition = "2021"
+description = "A toy payments engine: CSV transactions in, account balances out."
+publish = false
+
+[dependencies]
+csv = "1.3"
